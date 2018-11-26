@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543188386497.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2227125510",
+    "id" : "9190BD38",
+    "lastKnownWriteTime" : 1543200117,
+    "last_content_update" : 1543200117069,
+    "path" : "/media/fede/FEDE/projects/tsr/R/comparing.R",
+    "project_path" : "R/comparing.R",
+    "properties" : {
+        "cursorPosition" : "90,66",
+        "scrollLine" : "85",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

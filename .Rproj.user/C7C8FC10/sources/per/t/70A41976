@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1543105072141.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "33194868",
+    "id" : "70A41976",
+    "lastKnownWriteTime" : 1543198364,
+    "last_content_update" : 1543198364514,
+    "path" : "/media/fede/FEDE/projects/tsr/R/dynamic-mult.R",
+    "project_path" : "R/dynamic-mult.R",
+    "properties" : {
+        "cursorPosition" : "157,59",
+        "scrollLine" : "145"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
